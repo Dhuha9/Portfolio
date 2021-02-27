@@ -5,6 +5,8 @@
 - use axios to get repos from github api
 
 
+## Design instructions
+https://www.figma.com/blog/how-to-wireframe/
 
 ## Porfolio Technical Guide
 
